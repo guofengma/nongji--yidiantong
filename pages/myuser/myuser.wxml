@@ -1,0 +1,27 @@
+<!--主盒子-->
+<view class="container">
+    <view>
+        <view class="myuser">
+            <view class="mypic">
+                <image src="{{userpic}}"></image>
+            </view>
+            <view class="myname">
+                <button open-type="getUserInfo" bindgetuserinfo="bindgetuserinfo">{{username}}</button>
+            </view>
+        </view>
+    </view>
+    <view class="myhref" bindtap="skipQuestionlist">
+        <view class="myhref_l">
+            <image src="{{imgurl}}goac.png"></image>
+            <view>我的提问</view>
+        </view>
+        <image src="{{imgurl}}r.png"></image>
+    </view>
+    <button open-type="contact" class="myhref">
+        <view class="myhref_l">
+            <image src="../../images/kefu.png"/>
+            <view class="myhref_c">联系我们</view>
+        </view>
+        <image src="https://h5.yzyy365.com/yunimg/r.png"/>
+    </button>
+</view>  

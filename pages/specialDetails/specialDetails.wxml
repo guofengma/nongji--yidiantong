@@ -1,0 +1,19 @@
+<!--pages/specialDetails/specialDetails.wxml-->
+<import src="../wxParse/wxParse.wxml"/>
+
+
+<!--<view>-->
+    <view class="wrap">
+        <view class="sp_de_name">{{title}}</view>
+        <view class="sp_de_time">
+            <text>{{tixi}}</text>
+            <text>{{time}}</text>
+        </view>
+        <!--<view class="sp_de_img" style="background-image: url('{{url+img}}')"></view>-->
+    </view>
+    <view class="sp_de_text">
+        <!--<template is="wxParse" data="{{wxParseData:ss.nodes}}"/>-->
+        <template is="wxParse" data="{{wxParseData:article.nodes}}"/>
+    </view>
+    <!--<view class="sp_de_num">100次阅读</view>-->
+<!--</view>-->

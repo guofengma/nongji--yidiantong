@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ccb0d23-8fbf-404c-bd59-d685fe4369f8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/农技一点通1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/imgcup/we-cropper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/imgcup/we-cropper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/imgcup/we-cropper.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/imgcup/we-cropper.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bander.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bq_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/emotion-o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/face-icons-flat/smiley_027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/faile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gbflower1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kefu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/message1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tabbar_question@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tabbar_question_selected@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tiwen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/bphone/bphone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/bphone/bphone.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/bphone/bphone.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/bphone/bphone.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choice/choice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choice/choice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choice/choice.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/choice/choice.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/common/image_uploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/common/image_uploader.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/common/image_uploader.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/common/weui.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/flower/flower.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/flower/flower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/flower/flower.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/flower/flower.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/indexDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/indexDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/indexDetail.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/indexDetail.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/message/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/message/message.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/message/message.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/message/message.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/myuser/myuser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/myuser/myuser.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/myuser/myuser.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/myuser/myuser.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/protocol/protocol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/protocol/protocol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/protocol/protocol.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/protocol/protocol.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/questionslist/questionslist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/questionslist/questionslist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/questionslist/questionslist.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/questionslist/questionslist.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/recognition/recognition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/recognition/recognition.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/recognition/recognition.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/recognition/recognition.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sign/sign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sign/sign.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sign/sign.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sign/sign.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/special/special.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/special/special.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/special/special.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/special/special.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/specialDetails/specialDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/specialDetails/specialDetails.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/specialDetails/specialDetails.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/specialDetails/specialDetails.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/upload/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/upload/upload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/upload/upload.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/upload/upload.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/00.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/101.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/102.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/103.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/104.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/105.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/106.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/107.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/108.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/109.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/110.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/111.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/112.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/113.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/114.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/115.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/116.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/117.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/118.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/119.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/120.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/121.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/122.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/124.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/125.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/126.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/127.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/128.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/129.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/130.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/131.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/132.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/133.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/134.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/77.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/78.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/79.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/80.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/81.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/82.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/83.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/84.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/85.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/86.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/87.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/88.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/89.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/90.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/91.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/92.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/93.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/94.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/95.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/96.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/97.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/98.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/emojis/99.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/html2json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/htmlparser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/showdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/wxDiscode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/wxParse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/wxParse.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wxParse/wxParse.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/bluebird.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/cryptojs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/lib/Crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/lib/HMAC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/lib/SHA256.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/socket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/toast/wetoast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/toast/wetoast.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/toast/wetoast.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/toast/wetoast.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wechat.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".wepyignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../花仙子/huaxianzi/.wepyignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.wxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.wxss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/index.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1800">
+              <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myuser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408">
+              <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/api/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myuser.wxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/upload/upload.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myuser.wxss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myuser.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sessionInvalid</find>
+      <find>getStorageSync</find>
+      <find>gets</find>
+      <find>sets</find>
+      <find>setS</find>
+      <find>storeUserInfo</find>
+      <find>signature</find>
+      <find>set</find>
+      <find>decrydata</find>
+      <find>title</find>
+      <find>http</find>
+      <find>console</find>
+      <find>mask</find>
+      <find>bindgetuserinfo</find>
+      <find>go</find>
+      <find>gonext</find>
+      <find>uuid</find>
+      <find>logined</find>
+      <find>selected1</find>
+      <find>curNav</find>
+      <find>getChildSpecie</find>
+      <find>params</find>
+      <find>url</find>
+      <find>actives</find>
+      <find>active</find>
+      <find>for</find>
+      <find>imgurl</find>
+      <find>animation_2</find>
+      <find>animation</find>
+      <find>skipDetail</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/index/indexDetail.wxml" />
+        <option value="$PROJECT_DIR$/pages/common/image_uploader.js" />
+        <option value="$PROJECT_DIR$/utils/util.js" />
+        <option value="$PROJECT_DIR$/utils/time.js" />
+        <option value="$PROJECT_DIR$/pages/message/message.wxss" />
+        <option value="$PROJECT_DIR$/pages/questionslist/questionslist.wxml" />
+        <option value="$PROJECT_DIR$/pages/questionslist/questionslist.js" />
+        <option value="$PROJECT_DIR$/pages/png/png.js" />
+        <option value="$PROJECT_DIR$/pages/imgcut/imgcut.wxml" />
+        <option value="$PROJECT_DIR$/components/imgcup/we-cropper.wxss" />
+        <option value="$PROJECT_DIR$/pages/imgcut/imgcut.js" />
+        <option value="$PROJECT_DIR$/pages/imgcut/imgcut.wxss" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.json" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.wxss" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.wxml" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.wxml" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.wxss" />
+        <option value="$PROJECT_DIR$/pages/guodu/guodu.js" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.json" />
+        <option value="$PROJECT_DIR$/pages/recognition/recognition.wxss" />
+        <option value="$PROJECT_DIR$/pages/recognition/recognition.wxml" />
+        <option value="$PROJECT_DIR$/pages/special/special.wxml" />
+        <option value="$PROJECT_DIR$/pages/wxParse/wxParse.wxss" />
+        <option value="$PROJECT_DIR$/pages/special/special.wxss" />
+        <option value="$PROJECT_DIR$/pages/specialDetails/specialDetails.wxml" />
+        <option value="$PROJECT_DIR$/pages/specialDetails/specialDetails.wxss" />
+        <option value="$PROJECT_DIR$/pages/index/indexDetail.json" />
+        <option value="$PROJECT_DIR$/pages/flower/flower.js" />
+        <option value="$PROJECT_DIR$/pages/specialDetails/specialDetails.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.json" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/pages/special/special.js" />
+        <option value="$PROJECT_DIR$/pages/recognition/recognition.js" />
+        <option value="$PROJECT_DIR$/pages/upload/upload.js" />
+        <option value="$PROJECT_DIR$/pages/index/indexDetail.js" />
+        <option value="$PROJECT_DIR$/pages/choice/choice.wxml" />
+        <option value="$PROJECT_DIR$/pages/choice/choice.js" />
+        <option value="$PROJECT_DIR$/pages/sign/sign.wxss" />
+        <option value="$PROJECT_DIR$/pages/sign/sign.js" />
+        <option value="$PROJECT_DIR$/pages/bphone/bphone.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/pages/protocol/protocol.js" />
+        <option value="$PROJECT_DIR$/pages/message/message.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/myuser/myuser.wxss" />
+        <option value="$PROJECT_DIR$/pages/myuser/myuser.wxml" />
+        <option value="$PROJECT_DIR$/pages/myuser/myuser.js" />
+        <option value="$PROJECT_DIR$/pages/api/api.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/index/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="375" />
+    <option name="y" value="2" />
+    <option name="width" value="988" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="农技一点通1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="农技一点通1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="农技一点通1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="农技一点通1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="农技一点通1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="农技一点通1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="农技一点通1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="农技一点通1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="农技一点通1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="农技一点通1" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="myuser" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../找专家/myproject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目\农技一点通1\pages\api" />
+      <recent name="D:\项目\农技一点通1\pages" />
+      <recent name="D:\项目\农技一点通1\images" />
+      <recent name="D:\项目\农技一点通1\pages\upload" />
+      <recent name="D:\项目\农技一点通1\components\imgcup" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ccb0d23-8fbf-404c-bd59-d685fe4369f8" name="Default" comment="" />
+      <created>1530240401266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530240401266</updated>
+      <workItem from="1530240403462" duration="16010000" />
+      <workItem from="1530495437148" duration="14013000" />
+      <workItem from="1530514642752" duration="373000" />
+      <workItem from="1530516066698" duration="9965000" />
+      <workItem from="1530581229464" duration="37000" />
+      <workItem from="1530602556028" duration="1062000" />
+      <workItem from="1530603864239" duration="7887000" />
+      <workItem from="1530667861467" duration="6426000" />
+      <workItem from="1530694169607" duration="2949000" />
+      <workItem from="1530840746857" duration="8891000" />
+      <workItem from="1531099779162" duration="23299000" />
+      <workItem from="1531186460627" duration="4499000" />
+      <workItem from="1531201325839" duration="14931000" />
+      <workItem from="1531219367743" duration="1081000" />
+      <workItem from="1531289073956" duration="12513000" />
+      <workItem from="1531361225087" duration="9941000" />
+      <workItem from="1531445329517" duration="11483000" />
+      <workItem from="1531704895458" duration="9038000" />
+      <workItem from="1531791575125" duration="6208000" />
+      <workItem from="1531877580530" duration="23090000" />
+      <workItem from="1531963930932" duration="15714000" />
+      <workItem from="1532396830862" duration="5739000" />
+      <workItem from="1532483260748" duration="2752000" />
+      <workItem from="1532498469925" duration="6809000" />
+      <workItem from="1532568737540" duration="7952000" />
+      <workItem from="1532654926562" duration="2496000" />
+      <workItem from="1532938201951" duration="1142000" />
+      <workItem from="1533000630746" duration="3794000" />
+      <workItem from="1533087795798" duration="785000" />
+      <workItem from="1533173368886" duration="3558000" />
+      <workItem from="1533191073360" duration="4957000" />
+      <workItem from="1533260149865" duration="2269000" />
+      <workItem from="1533264057930" duration="2200000" />
+      <workItem from="1533716143253" duration="2059000" />
+      <workItem from="1533781347408" duration="3003000" />
+      <workItem from="1533864843231" duration="596000" />
+      <workItem from="1534123978122" duration="3174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252695000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="375" y="2" width="988" height="734" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2231579" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32881355" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27157894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32994923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/sign/sign.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bphone/bphone.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bphone/bphone.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bphone/bphone.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/validate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/bphone/bphone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/indexDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/questionslist/questionslist.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/questionslist/questionslist.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/protocol/protocol.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/protocol/protocol.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="149" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/protocol/protocol.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/protocol/protocol.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/util.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/questionslist/questionslist.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/questionslist/questionslist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/message/message.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="120" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/flower/flower.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/flower/flower.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/common/image_uploader.wxml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/common/image_uploader.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/common/image_uploader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="70" column="47" lean-forward="true" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sign/sign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3432">
+          <caret line="144" column="16" lean-forward="true" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sign/sign.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/message/message.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/message/message.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/message/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/core.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/message.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/recognition/recognition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="28" selection-end-line="96" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/recognition/recognition.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/recognition/recognition.wxml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/recognition/recognition.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/indexDetail.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2712">
+          <caret line="113" column="59" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5640">
+          <caret line="235" column="2" lean-forward="true" selection-start-line="235" selection-start-column="2" selection-end-line="235" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/face-icons-flat/smiley_002.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/upload/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/myuser/myuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800">
+          <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../花仙子/huaxianzi/.wepyignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,49 @@
+/* pages/specialDetails/specialDetails.wxss */
+@import "../wxParse/wxParse.wxss";
+
+page{
+    padding: 10rpx 10rpx 0 10rpx;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wxParse-p{
+    /*overflow-y: false;*/
+    height: auto;
+}
+.sp_de_name{
+    font-size: 40rpx;
+    color: black;
+    font-weight: 600;
+    font-family: "PingFangSC Medium";
+    line-height: 50rpx;
+}
+.sp_de_time{
+    font-size: 24rpx;
+    color: #979da4;
+    margin-top: 30rpx;
+    margin-bottom: 20rpx;
+    font-family: "PingFangSC Regular";
+}
+.sp_de_time text{
+    margin-right: 30rpx;
+}
+.sp_de_text{
+    height: auto;
+    /*padding: 30rpx;*/
+    /*font-size: 28rpx;*/
+    /*color: #33485c;*/
+    /*line-height: 38rpx;*/
+    /*font-family: "PingFangSC Regular";*/
+}
+/*.sp_de_num{*/
+    /*float: right;*/
+    /*font-size: 24rpx;*/
+    /*color: #979da4;*/
+    /*font-family: "PingFangSC Regular";*/
+    /*margin-top: 30rpx;*/
+    /*margin-bottom: 50rpx;*/
+/*}*/
+.sp_de_text image{
+    width: 100%!important;
+}

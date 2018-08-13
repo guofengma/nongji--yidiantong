@@ -1,0 +1,23 @@
+<!--pages/special/special.wxml-->
+<view class="xian">
+    <view class="{{item.img !== '' ? 'special' : 'special_'}}"
+          wx:for="{{special}}"
+          wx:key="{{index}}"
+          bindtap="specialDetails"
+          data-id="{{item.uuid}}">
+        <view class="special_left">
+            <view class="sepcial_name">
+                {{item.title}}
+            </view>
+            <view class="special_detail">
+                <text>{{item.tixi}}</text>
+                <!--<text>{{item.num}}次阅读</text>-->
+                <text>{{item.time}}</text>
+            </view>
+        </view>
+        <view class="special_img" style="background-image: url('{{src+item.titleImg}}')"></view>
+    </view>
+    <view wx:if="{{bg}}" class="non">
+        <image src="{{imgurl}}nono.png" mode="widthFix"></image>
+    </view>
+</view>

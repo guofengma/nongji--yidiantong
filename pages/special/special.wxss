@@ -1,0 +1,63 @@
+/* pages/special/special.wxss */
+.xian{
+    border-top: 1px solid #ccc;
+}
+.special{
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    padding: 19rpx 30rpx;
+    box-sizing: border-box;
+    justify-content: space-between;
+    height: 200rpx;
+}
+.special_{
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    padding: 0 30rpx;
+    box-sizing: border-box;
+    height: 124rpx;
+}
+.special_left{
+    display: flex;
+    padding: 5rpx 0;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.special_img{
+    flex: 0 0 200rpx;
+    height: 100%;
+    border-radius: 10rpx;
+    background: pink;
+    margin-left: 30rpx;
+    background: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.sepcial_name{
+    font-size: 30rpx;
+    color: #3348SC;
+    font-family: "PingFangSC Medium";
+    overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+}
+.special_detail text{
+    font-size: 24rpx;
+    color: #979da4;
+    margin-right: 20rpx;
+    font-family: "PingFangSC Regular";
+}
+.non{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.non image{
+    width: 70vw;
+}

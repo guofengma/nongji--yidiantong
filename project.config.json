@@ -1,0 +1,85 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.1",
+	"appid": "wx04b0446d000398c4",
+	"projectname": "%E5%86%9C%E6%8A%80%E4%B8%80%E7%82%B9%E9%80%9A2",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "1",
+					"pathName": "pages/sign/sign",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "flower",
+					"pathName": "pages/flower/flower",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "提问",
+					"pathName": "pages/questionslist/questionslist",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "油料专题",
+					"pathName": "pages/special/special",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "油料专题详情",
+					"pathName": "pages/specialDetails/specialDetails",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "me",
+					"pathName": "pages/myuser/myuser",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "的",
+					"pathName": "pages/specialDetails/specialDetails",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "message",
+					"pathName": "pages/message/message",
+					"query": ""
+				}
+			]
+		}
+	}
+}
